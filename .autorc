@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "WeirdDonkey7",
+  "repo": "container-jwbdvoc",
+  "name": "WeirdDonkey7",
+  "email": "jakub10rysavy@gmail.com",
+}
